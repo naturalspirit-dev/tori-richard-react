@@ -1,0 +1,12 @@
+.tori-richard-cyan {
+  color: #00b6cc !important;
+}
+
+.tori-richard-gray {
+  color: #7d7d7c !important;
+}
+
+.ui.menu.borderless {
+  box-shadow: none;
+  border: none;
+}
